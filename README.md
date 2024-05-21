@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">Creative Front-End Developer | React, Tailwind CSS, JavaScript, HTML5, CSS, Python</h4>
 
 ###
