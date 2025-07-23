@@ -58,3 +58,8 @@
 </div>
 
 ###
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-Toas&color=blueviolet&label=Profile+Views" alt="profile views" />
+</div>
