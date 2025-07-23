@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Front-end developer crafting sleek UIs with React & Tailwind CSS. Python enthusiast for automation and problem-solving.</h3>
+<h3 align="center">Full-Stack developer crafting sleek UIs with React & Tailwind CSS. Python enthusiast for automation and problem-solving.</h3>
 <p align="center">⚡ Once fixed a bug in production while half-asleep at 3 AM.</p>
 
 ###
