@@ -31,12 +31,12 @@
 
 ###
 
-<!-- Projects -->
+<!-- Featured Projects -->
 <h3 align="center">🔥 Featured Projects</h3>
 <div align="center">
-  <center>
-  (https://github.com/David-Toas/Edubridge)
-  </center>
+  <a href="https://github.com/David-Toas/Edubridge" target="_blank">
+    <img src="https://img.shields.io/badge/Edubridge-View_Project-007acc?style=for-the-badge&logo=github&logoColor=white" height="35" alt="EduBridge Project" />
+  </a>
 </div>
 
 ###
