@@ -63,3 +63,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=David-Toas&color=blueviolet&label=Profile+Views" alt="profile views" />
 </div>
+
+###
+
+### 🐍 Watch my contributions come to life!
+
+![snake gif](https://github.com/David-Toas/David-Toas/blob/output/github-snake.svg)
