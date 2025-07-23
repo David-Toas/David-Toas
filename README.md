@@ -37,6 +37,9 @@
   <a href="https://github.com/David-Toas/Edubridge" target="_blank">
     <img src="https://img.shields.io/badge/Edubridge-View_Project-007acc?style=for-the-badge&logo=github&logoColor=white" height="35" alt="EduBridge Project" />
   </a>
+ <a href="https://olabode.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Project-007acc?style=for-the-badge&logo=github&logoColor=white" height="35" alt="EduBridge Project" />
+  </a>
 </div>
 
 ###
