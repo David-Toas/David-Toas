@@ -65,7 +65,8 @@
 </div>
 
 ###
+<div align="center">
+🐍 Watch my contributions come to life!
 
-### 🐍 Watch my contributions come to life!
-
-![snake gif](https://github.com/David-Toas/David-Toas/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/David-Toas/David-Toas/blob/output/github-snake-dark.svg)
+</div>
